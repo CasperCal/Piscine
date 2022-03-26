@@ -2,7 +2,7 @@
 
 A month long, 7/7, bootcamp-style selection procedure for the 19 coding school in Brussels (part of the 42 network).
 
-In this repository you can find all my submitted code in C that passed the moulinette(= a testing program that compares the output against the epected output for numerous tests) qnd peer corrections.
+In this repository you can find all my submitted code in C that passed the moulinette(= a testing program that compares the output against the expected output for numerous tests) and peer corrections.
 
 I completed my remote piscine (due to covid) in september.
 
